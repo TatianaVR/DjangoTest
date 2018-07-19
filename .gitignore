@@ -1,4 +1,4 @@
-/venv
-/db.sqlite3
-/blog/apps.py
-/.idea/
+venv/
+db.sqlite3/
+blog/apps.py
+.idea/
