@@ -1,5 +1,3 @@
-/blog/apps.py
 /venv
 /db.sqlite3
-
-
+/blog/apps.py
